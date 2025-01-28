@@ -18,3 +18,8 @@
 
 
 В рамках домашнего задания я протестировал SOAP-сервисы-https://www.postman.com/docking-module-astronomer-85548287/workspace/my-workspace/collection/41364102-b42fc12e-4383-4da0-964d-f0bb68dbe2a1?action=share&creator=41364102
+
+
+
+
+В рамках домашнего задания я добавил генерацию данных и тест кейсы в коллекцию-https://app.qase.io/project/G9?previewMode=side&suite=317
